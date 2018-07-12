@@ -1,0 +1,3 @@
+"C:\\Users\\Ebad\\Documents\\JCreator Pro\\MyProjects\\banks\\bcheck.java"
+"C:\\Users\\Ebad\\Documents\\JCreator Pro\\MyProjects\\banks\\fileqq.java"
+"C:\\Users\\Ebad\\Documents\\JCreator Pro\\MyProjects\\banks\\stat.java"
